@@ -1,12 +1,19 @@
 {
-    "name": "laravel/laravel",
+    "name": "iam-adty/laravel-cms",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "The Laravel Framework CMS.",
     "keywords": [
         "framework",
-        "laravel"
+        "laravel",
+        "cms"
     ],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Bagus A Priambada",
+            "email": "iam.adty@gmail.com"
+        }
+    ],
     "require": {
         "php": "^7.2",
         "fideloper/proxy": "^4.0",
@@ -16,6 +23,7 @@
     "require-dev": {
         "facade/ignition": "^1.4",
         "fzaninotto/faker": "^1.4",
+        "laravel/ui": "^1.1",
         "mockery/mockery": "^1.0",
         "nunomaduro/collision": "^3.0",
         "phpunit/phpunit": "^8.0"
