@@ -39,12 +39,15 @@
                             </a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" id="menuItemLinkPengaturan" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Pengaturan
+                            <a href="#" class="nav-link dropdown-toggle" id="menuItemLinkSettings" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Settings
                             </a>
-                            <div class="dropdown-menu" aria-labelledby="menuItemLinkPengaturan">
+                            <div class="dropdown-menu" aria-labelledby="menuItemLinkSettings">
                                 <a href="#" class="dropdown-item">
-                                    Pengguna
+                                    Users
+                                </a>
+                                <a href="#" class="dropdown-item">
+                                    Roles & Policies
                                 </a>
                             </div>
                         </li>
